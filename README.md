@@ -1,1 +1,1 @@
-# hangman-2019
+# react-typescript-starter
